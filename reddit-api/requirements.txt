@@ -1,0 +1,7 @@
+Flask
+requests
+gunicorn
+textblob
+pymongo
+pytest
+raven[flask]
