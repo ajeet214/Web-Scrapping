@@ -1,0 +1,6 @@
+Flask
+gunicorn
+requests
+selenium
+pytest
+raven[flask]
