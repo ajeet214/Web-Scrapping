@@ -1,0 +1,233 @@
+17:19:46,863 root INFO searching for restaurants in dubai .........
+17:19:46,863 root INFO getting the restaurant urls from page 1
+17:19:51,168 root INFO total number of pages: 34
+17:19:51,168 root INFO getting the restaurant urls from page 2
+17:19:54,315 root INFO getting the restaurant urls from page 3
+17:19:58,273 root INFO getting the restaurant urls from page 4
+17:20:02,105 root INFO getting the restaurant urls from page 5
+17:20:05,449 root INFO getting the restaurant urls from page 6
+17:20:09,340 root INFO getting the restaurant urls from page 7
+17:20:12,600 root INFO getting the restaurant urls from page 8
+17:20:16,680 root INFO getting the restaurant urls from page 9
+17:20:20,379 root INFO getting the restaurant urls from page 10
+17:20:23,964 root INFO getting the restaurant urls from page 11
+17:20:27,243 root INFO getting the restaurant urls from page 12
+17:20:30,253 root INFO getting the restaurant urls from page 13
+17:20:34,285 root INFO getting the restaurant urls from page 14
+17:20:37,698 root INFO getting the restaurant urls from page 15
+17:20:40,926 root INFO getting the restaurant urls from page 16
+17:20:44,49 root INFO getting the restaurant urls from page 17
+17:20:47,73 root INFO getting the restaurant urls from page 18
+17:20:50,620 root INFO getting the restaurant urls from page 19
+17:20:54,32 root INFO getting the restaurant urls from page 20
+17:20:57,338 root INFO getting the restaurant urls from page 21
+17:21:01,95 root INFO getting the restaurant urls from page 22
+17:21:04,319 root INFO getting the restaurant urls from page 23
+17:21:07,783 root INFO getting the restaurant urls from page 24
+17:21:11,149 root INFO getting the restaurant urls from page 25
+17:21:14,373 root INFO getting the restaurant urls from page 26
+17:21:17,410 root INFO getting the restaurant urls from page 27
+17:21:20,818 root INFO getting the restaurant urls from page 28
+17:21:24,190 root INFO getting the restaurant urls from page 29
+17:21:27,120 root INFO getting the restaurant urls from page 30
+17:21:30,178 root INFO getting the restaurant urls from page 31
+17:21:33,815 root INFO getting the restaurant urls from page 32
+17:21:37,123 root INFO getting the restaurant urls from page 33
+17:21:40,310 root INFO getting the restaurant urls from page 34
+17:21:43,463 root INFO total restaurant urls scrapped: 1020
+17:21:43,525 root INFO ------------data is saved at D:\automation\Upwork\Tripadvisor_Service/restaurant_urls.csv------------
+17:42:57,428 root INFO searching for restaurants in hanoi,vietnam .........
+17:42:57,436 root INFO getting the restaurant urls from page 1
+17:43:04,844 root INFO total number of pages: 34
+17:43:04,844 root INFO getting the restaurant urls from page 2
+17:43:08,970 root INFO getting the restaurant urls from page 3
+17:43:12,669 root INFO getting the restaurant urls from page 4
+17:43:16,326 root INFO getting the restaurant urls from page 5
+17:43:20,199 root INFO getting the restaurant urls from page 6
+17:43:23,903 root INFO getting the restaurant urls from page 7
+17:43:27,788 root INFO getting the restaurant urls from page 8
+17:43:31,401 root INFO getting the restaurant urls from page 9
+17:43:35,254 root INFO getting the restaurant urls from page 10
+17:43:39,152 root INFO getting the restaurant urls from page 11
+17:43:42,893 root INFO getting the restaurant urls from page 12
+17:43:46,681 root INFO getting the restaurant urls from page 13
+17:43:50,629 root INFO getting the restaurant urls from page 14
+17:43:54,405 root INFO getting the restaurant urls from page 15
+17:43:58,81 root INFO getting the restaurant urls from page 16
+17:44:01,689 root INFO getting the restaurant urls from page 17
+17:44:05,593 root INFO getting the restaurant urls from page 18
+17:44:09,168 root INFO getting the restaurant urls from page 19
+17:44:12,891 root INFO getting the restaurant urls from page 20
+17:44:16,699 root INFO getting the restaurant urls from page 21
+17:44:20,932 root INFO getting the restaurant urls from page 22
+17:44:25,30 root INFO getting the restaurant urls from page 23
+17:44:28,361 root INFO getting the restaurant urls from page 24
+17:44:31,717 root INFO getting the restaurant urls from page 25
+17:44:34,877 root INFO getting the restaurant urls from page 26
+17:44:38,215 root INFO getting the restaurant urls from page 27
+17:44:43,45 root INFO getting the restaurant urls from page 28
+17:44:46,177 root INFO getting the restaurant urls from page 29
+17:44:49,805 root INFO getting the restaurant urls from page 30
+17:44:52,519 root INFO getting the restaurant urls from page 31
+17:44:55,748 root INFO getting the restaurant urls from page 32
+17:44:59,433 root INFO getting the restaurant urls from page 33
+17:45:02,789 root INFO getting the restaurant urls from page 34
+17:45:06,264 root INFO total restaurant urls scrapped: 1020
+17:45:06,269 root INFO ------------data is saved at D:\automation\Upwork\Tripadvisor_Service/restaurant_urls.csv------------
+17:46:30,86 root INFO searching for hotels in dubai .........
+17:46:30,86 root INFO getting the hotel urls from page 1
+17:46:33,914 root INFO total number of pages: 34
+17:46:33,914 root INFO getting the restaurant urls from page 2
+17:46:37,114 root INFO getting the restaurant urls from page 3
+17:46:41,191 root INFO getting the restaurant urls from page 4
+17:46:44,404 root INFO getting the restaurant urls from page 5
+17:46:47,521 root INFO getting the restaurant urls from page 6
+17:46:50,725 root INFO getting the restaurant urls from page 7
+17:46:53,345 root INFO getting the restaurant urls from page 8
+17:46:57,519 root INFO getting the restaurant urls from page 9
+17:47:00,358 root INFO getting the restaurant urls from page 10
+17:47:04,146 root INFO getting the restaurant urls from page 11
+17:47:07,58 root INFO getting the restaurant urls from page 12
+17:47:10,752 root INFO getting the restaurant urls from page 13
+17:47:13,507 root INFO getting the restaurant urls from page 14
+17:47:16,295 root INFO getting the restaurant urls from page 15
+17:47:19,66 root INFO getting the restaurant urls from page 16
+17:47:21,677 root INFO getting the restaurant urls from page 17
+17:47:24,855 root INFO getting the restaurant urls from page 18
+17:47:27,870 root INFO getting the restaurant urls from page 19
+17:47:30,631 root INFO getting the restaurant urls from page 20
+17:47:34,123 root INFO getting the restaurant urls from page 21
+17:47:37,258 root INFO getting the restaurant urls from page 22
+17:47:40,47 root INFO getting the restaurant urls from page 23
+17:47:42,694 root INFO getting the restaurant urls from page 24
+17:47:45,323 root INFO getting the restaurant urls from page 25
+17:47:48,514 root INFO getting the restaurant urls from page 26
+17:47:51,155 root INFO getting the restaurant urls from page 27
+17:47:54,533 root INFO getting the restaurant urls from page 28
+17:47:57,175 root INFO getting the restaurant urls from page 29
+17:48:00,270 root INFO getting the restaurant urls from page 30
+17:48:02,944 root INFO getting the restaurant urls from page 31
+17:48:05,586 root INFO getting the restaurant urls from page 32
+17:48:08,383 root INFO getting the restaurant urls from page 33
+17:48:11,89 root INFO getting the restaurant urls from page 34
+17:48:14,276 root INFO total restaurant urls scrapped: 1020
+17:48:14,276 root INFO ------------data is saved at D:\automation\Upwork\Tripadvisor_Service/hotel_urls.csv------------
+17:49:55,335 root INFO searching for things to do in tokyo,japan .........
+17:49:55,335 root INFO getting the things to do urls from page 1
+17:49:59,796 root INFO total number of pages: 34
+17:49:59,796 root INFO getting the restaurant urls from page 2
+17:50:03,69 root INFO getting the restaurant urls from page 3
+17:50:06,511 root INFO getting the restaurant urls from page 4
+17:50:09,888 root INFO getting the restaurant urls from page 5
+17:50:13,237 root INFO getting the restaurant urls from page 6
+17:50:16,560 root INFO getting the restaurant urls from page 7
+17:50:19,795 root INFO getting the restaurant urls from page 8
+17:50:22,968 root INFO getting the restaurant urls from page 9
+17:50:26,237 root INFO getting the restaurant urls from page 10
+17:50:29,394 root INFO getting the restaurant urls from page 11
+17:50:32,645 root INFO getting the restaurant urls from page 12
+17:50:35,834 root INFO getting the restaurant urls from page 13
+17:50:39,73 root INFO getting the restaurant urls from page 14
+17:50:42,400 root INFO getting the restaurant urls from page 15
+17:50:46,73 root INFO getting the restaurant urls from page 16
+17:50:49,341 root INFO getting the restaurant urls from page 17
+17:50:52,530 root INFO getting the restaurant urls from page 18
+17:50:56,547 root INFO getting the restaurant urls from page 19
+17:50:59,940 root INFO getting the restaurant urls from page 20
+17:51:03,318 root INFO getting the restaurant urls from page 21
+17:51:06,647 root INFO getting the restaurant urls from page 22
+17:51:10,539 root INFO getting the restaurant urls from page 23
+17:51:14,373 root INFO getting the restaurant urls from page 24
+17:51:18,173 root INFO getting the restaurant urls from page 25
+17:51:21,706 root INFO getting the restaurant urls from page 26
+17:51:25,52 root INFO getting the restaurant urls from page 27
+17:51:28,215 root INFO getting the restaurant urls from page 28
+17:51:31,446 root INFO getting the restaurant urls from page 29
+17:51:34,664 root INFO getting the restaurant urls from page 30
+17:51:37,775 root INFO getting the restaurant urls from page 31
+17:51:40,917 root INFO getting the restaurant urls from page 32
+17:51:44,200 root INFO getting the restaurant urls from page 33
+17:51:47,450 root INFO getting the restaurant urls from page 34
+17:51:50,732 root INFO total restaurant urls scrapped: 1020
+17:51:50,732 root INFO ------------data is saved at D:\automation\Upwork\Tripadvisor_Service/things_to_do_urls.csv------------
+
+12:18:27,188 WDM INFO ====== WebDriver manager ======
+12:18:28,61 WDM INFO Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+12:18:30,353 root INFO searching for restaurants in tokyo,japan .........
+12:18:30,353 root INFO getting the restaurant urls from page 1
+12:18:33,819 root INFO total number of pages: 34
+12:18:33,820 root INFO getting the restaurant urls from page 2
+12:18:37,208 root INFO getting the restaurant urls from page 3
+12:18:40,325 root INFO getting the restaurant urls from page 4
+12:18:44,775 root INFO getting the restaurant urls from page 5
+12:18:47,907 root INFO getting the restaurant urls from page 6
+12:18:51,590 root INFO getting the restaurant urls from page 7
+12:18:55,309 root INFO getting the restaurant urls from page 8
+12:18:58,608 root INFO getting the restaurant urls from page 9
+12:19:01,996 root INFO getting the restaurant urls from page 10
+12:19:05,623 root INFO getting the restaurant urls from page 11
+12:19:08,813 root INFO getting the restaurant urls from page 12
+12:19:12,506 root INFO getting the restaurant urls from page 13
+12:19:15,644 root INFO getting the restaurant urls from page 14
+12:19:18,837 root INFO getting the restaurant urls from page 15
+12:19:22,277 root INFO getting the restaurant urls from page 16
+12:19:25,712 root INFO getting the restaurant urls from page 17
+12:19:28,905 root INFO getting the restaurant urls from page 18
+12:19:32,111 root INFO getting the restaurant urls from page 19
+12:19:35,299 root INFO getting the restaurant urls from page 20
+12:19:38,378 root INFO getting the restaurant urls from page 21
+12:19:42,121 root INFO getting the restaurant urls from page 22
+12:19:45,197 root INFO getting the restaurant urls from page 23
+12:19:49,100 root INFO getting the restaurant urls from page 24
+12:19:52,375 root INFO getting the restaurant urls from page 25
+12:19:55,940 root INFO getting the restaurant urls from page 26
+12:19:58,923 root INFO getting the restaurant urls from page 27
+12:20:02,79 root INFO getting the restaurant urls from page 28
+12:20:05,34 root INFO getting the restaurant urls from page 29
+12:20:08,179 root INFO getting the restaurant urls from page 30
+12:20:11,723 root INFO getting the restaurant urls from page 31
+12:20:14,799 root INFO getting the restaurant urls from page 32
+12:20:18,487 root INFO getting the restaurant urls from page 33
+12:20:22,97 root INFO getting the restaurant urls from page 34
+12:20:25,377 root INFO total restaurant urls scrapped: 1020
+12:20:25,409 root INFO ------------data is saved at D:\automation\Upwork\Tripadvisor_Service/restaurant_urls.csv------------
+13:19:03,116 WDM INFO ====== WebDriver manager ======
+13:19:05,81 WDM INFO Driver [C:\Users\PC\.wdm\drivers\chromedriver\win32\114.0.5735.90\chromedriver.exe] found in cache
+13:19:07,928 root INFO searching for restaurants in tokyo,japan .........
+13:19:07,928 root INFO getting the restaurant urls from page 1
+13:19:18,331 root INFO total number of pages: 34
+13:19:18,331 root INFO getting the restaurant urls from page 2
+13:19:22,489 root INFO getting the restaurant urls from page 3
+13:19:27,74 root INFO getting the restaurant urls from page 4
+13:19:31,476 root INFO getting the restaurant urls from page 5
+13:19:36,156 root INFO getting the restaurant urls from page 6
+13:19:40,537 root INFO getting the restaurant urls from page 7
+13:19:45,87 root INFO getting the restaurant urls from page 8
+13:19:49,190 root INFO getting the restaurant urls from page 9
+13:19:53,592 root INFO getting the restaurant urls from page 10
+13:19:57,646 root INFO getting the restaurant urls from page 11
+13:20:01,740 root INFO getting the restaurant urls from page 12
+13:20:06,298 root INFO getting the restaurant urls from page 13
+13:20:10,718 root INFO getting the restaurant urls from page 14
+13:20:15,96 root INFO getting the restaurant urls from page 15
+13:20:19,174 root INFO getting the restaurant urls from page 16
+13:20:23,394 root INFO getting the restaurant urls from page 17
+13:20:27,495 root INFO getting the restaurant urls from page 18
+13:20:31,809 root INFO getting the restaurant urls from page 19
+13:20:35,951 root INFO getting the restaurant urls from page 20
+13:20:40,34 root INFO getting the restaurant urls from page 21
+13:20:44,321 root INFO getting the restaurant urls from page 22
+13:20:48,459 root INFO getting the restaurant urls from page 23
+13:20:52,850 root INFO getting the restaurant urls from page 24
+13:20:57,61 root INFO getting the restaurant urls from page 25
+13:21:01,303 root INFO getting the restaurant urls from page 26
+13:21:05,246 root INFO getting the restaurant urls from page 27
+13:21:09,666 root INFO getting the restaurant urls from page 28
+13:21:14,153 root INFO getting the restaurant urls from page 29
+13:21:18,312 root INFO getting the restaurant urls from page 30
+13:21:22,531 root INFO getting the restaurant urls from page 31
+13:21:27,111 root INFO getting the restaurant urls from page 32
+13:21:31,190 root INFO getting the restaurant urls from page 33
+13:21:35,415 root INFO getting the restaurant urls from page 34
+13:21:39,651 root INFO total restaurant urls scrapped: 1020
+13:21:39,790 root INFO ------------data is saved at D:\automation\Upwork\Tripadvisor_Service/restaurant_urls.csv------------
